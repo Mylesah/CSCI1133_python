@@ -1,0 +1,2 @@
+Grade: 15.0/30  
+Comments: Problem B: (-4) Uses a loop, which is against problem constraints. Problem C: (+1) Correct function name and definition. (+1) For returning False in the non-nested case. General: (-3) Late submission. Let us know if we can help you with future assignments! :) 

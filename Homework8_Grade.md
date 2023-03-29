@@ -1,0 +1,2 @@
+Grade: 24.0/30  
+Comments: General: (-3) Late submission. Problem B: (-1) For line in fname reads each character in the string, not each line. So if fname is longer than the number of lines, there will be a bunch of excess empty lines appended in get_data_list. (-1) Wrote to the incorrect file (we needed to write to the same file again, not a new one.) (-1) Doesn't split the line to see if "Lions of Casterly Rock" is in the row. Your solution catches "Lions of Casterly Rock 2: Electric Boogaloo" as well. All that aside, great job, Myles! Keep up the great work! :D

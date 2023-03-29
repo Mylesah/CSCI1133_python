@@ -1,0 +1,2 @@
+Grade: 29.0/30  
+Comments: You have a minor logic error in fanfict that causes some words to be follow by words that are not allowed. The logic behind it is that at the top of your while nexttw != '.' you compute nextw, but you never add that word to empty, tus after when you decided to randomize using ndcit[nextw] you have forgotten to add the previous nextw before the while loop. Otherwise goood job :)
